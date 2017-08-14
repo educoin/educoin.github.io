@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-11_1445",
+    "name": "educoin",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,11 @@
     },
     "versionFirst": "4.1.2",
     "uniqCompNum": 1,
-    "versionPublish": "4.1.2"
+    "versionPublish": "4.1.2",
+    "favicon": "@PROJECT_PATH@/assets/images/bitcoin-2547132-640-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-104480823-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
