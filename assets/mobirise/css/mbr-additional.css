@@ -809,3 +809,40 @@ pre {
 .cid-qrZB8cDT7k {
   background-image: url("../../../assets/images/gettyimages-1400x600.jpg");
 }
+.cid-qsySoxPw3O {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qsySoxPw3O .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qsySoxPw3O .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qsySoxPw3O .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-qsyTHCSIst {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qsyTHCSIst .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qsyTHCSIst .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qsyTHCSIst .mbr-text {
+  color: #767676;
+}
